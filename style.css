@@ -45,3 +45,11 @@ h3 {
     margin: 20px;
 }
 
+.btn-reiniciar{
+    margin-top: 3em;
+    font-size: 1.5em;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 5px;
+    background: var(--primary-color);
+}
